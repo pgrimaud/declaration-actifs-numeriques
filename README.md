@@ -18,15 +18,14 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 
 ## Liste des plateformes
 
-- Binance
+- [Binance](#binance)
 - Coinbase
 - Coinlist
 
 ### Binance
 
-| []()                                              |                                                                |
-|---------------------------------------------------|----------------------------------------------------------------|
 | Désignation de l'organisme gestionnaire du compte | Binance Europe Services Limited                                |
+|---------------------------------------------------|----------------------------------------------------------------|
 | Pays                                              | **Malte**                                                          |
 | Adresse                                           | Level G (Office 1/1235), Quantum House, 75 Abate Rigord Street |
 | Indicatif pays - Code postal - Ville              | TA' XBIEX, XBX 1120                                            |
