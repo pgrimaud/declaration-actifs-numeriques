@@ -24,11 +24,11 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 
 ### Binance
 
-| Désignation de l'organisme gestionnaire du compte | Binance Europe Services Limited                                |
+| Désignation de l'organisme gestionnaire du compte | `Binance Europe Services Limited`                               |
 |---------------------------------------------------|----------------------------------------------------------------|
-| Pays                                              | **Malte**                                                          |
-| Adresse                                           | Level G (Office 1/1235), Quantum House, 75 Abate Rigord Street |
-| Indicatif pays - Code postal - Ville              | TA' XBIEX, XBX 1120                                            |
+| Pays                                              | `Malte`                                                          |
+| Adresse                                           | `Level G (Office 1/1235), Quantum House, 75 Abate Rigord Street` |
+| Indicatif pays - Code postal - Ville              | `TA' XBIEX, XBX 1120`                                            |
 
 **Source** : https://www.dnb.com/business-directory/company-profiles.binance_europe_services_limited.32db5cbce39f6f61f84bfc8b1350137d.html
 
