@@ -19,8 +19,8 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 ## Liste des plateformes
 
 - [Binance](#binance)
-- Coinbase
-- Coinlist
+- [Coinbase](#coinbase)
+- [CoinList](#coinlist)
 
 ### Binance
 
@@ -30,8 +30,24 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Adresse                                           | `Level G (Office 1/1235), Quantum House, 75 Abate Rigord Street` |
 | Indicatif pays - Code postal - Ville              | `TA' XBIEX, XBX 1120`                                            |
 
-**Source** : https://www.dnb.com/business-directory/company-profiles.binance_europe_services_limited.32db5cbce39f6f61f84bfc8b1350137d.html
+**Source** : [Dun & Bradstreet](https://www.dnb.com/business-directory/company-profiles.binance_europe_services_limited.32db5cbce39f6f61f84bfc8b1350137d.html)
 
 ### Coinbase
 
-### Coinlist
+| Désignation de l'organisme gestionnaire du compte | `Coinbase Europe Limited`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Ireland`                                                          |
+| Adresse                                           | `70 Sir John Rogerson’s Quay` |
+| Indicatif pays - Code postal - Ville              | `Dublin D02 R296`                                            |
+
+**Source** : [Mentions légales coinbase.com](https://www.coinbase.com/legal/user_agreement/ireland_europe)
+
+### CoinList
+
+| Désignation de l'organisme gestionnaire du compte | `CoinList`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `États-Unis d'Amérique`                                                          |
+| Adresse                                           | `850 Montgomery St., Suite 350` |
+| Indicatif pays - Code postal - Ville              | `San Francisco, CA 94133`                                            |
+
+**Source** : [PDF conditions d'utilisation de coinlist.co p13](https://coinlist.co/documents/coinlist_terms_of_service.pdf)
