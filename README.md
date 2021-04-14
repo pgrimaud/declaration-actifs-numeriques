@@ -19,7 +19,7 @@ Vous pouvez soumettre une modification comme ceci :
 
 Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux déclarations devant être déposées à compter du 1er janvier 2020.
 
-**TL;DR : Il est nécessaire de déclarer tous vos comptes d'actifs numériques via un formulaire n°3916-bis lors de votre déclaration d'impôts 2021 sur les revenus de l'année 2020.**
+**TL;DR : Il est nécessaire de déclarer tous vos comptes d'actifs numériques à l'étranger via un formulaire n°3916-bis lors de votre déclaration d'impôts 2021 sur les revenus de l'année 2020.**
 
 💡 **Vous n'avez pas besoin de déclarer si :** 
 - vos cryptos sont sur un wallet où vous possédez vos clés d'accès (Ledger et autres)
@@ -35,11 +35,15 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 
 - [Binance](#binance)
 - [Bitstamp](#bitstamp)
+- [Bitpanda](#bitpanda)
 - [Bittrex](#bittrex)
 - [Brave rewards](#brave-rewards)
 - [Coinbase](#coinbase)
 - [CoinList](#coinlist)
+- [Crypto.com](#crypto-com)
+- [Kraken](#kraken)
 - [Uphold](#uphold)
+- [SwissBorg](#swissborg)
 
 ## Binance
 
@@ -50,6 +54,16 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Indicatif pays - Code postal - Ville              | `TA' XBIEX, XBX 1120`                                            |
 
 **Source** : [Dun & Bradstreet](https://www.dnb.com/business-directory/company-profiles.binance_europe_services_limited.32db5cbce39f6f61f84bfc8b1350137d.html)
+
+## Bitpanda
+
+| Désignation de l'organisme gestionnaire du compte | `Bitpanda GmbH`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Autriche`                                                          |
+| Adresse                                           | `Campus 2, Jakov-Lind-Straße 2` |
+| Indicatif pays - Code postal - Ville              | `1020 Vienna`                                            |
+
+**Source** : [Lien Legal notice dans le pied de page du site bitpanda.com](https://www.bitpanda.com/en/legal/notice)
 
 ## Bitstamp
 
@@ -70,7 +84,6 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Indicatif pays - Code postal - Ville              | `9490 Vaduz`                                            |
 
 **Source** : [Lien privacy dans le pied de page du site global.bittrex.com](https://global.bittrex.com/privacy)
-
 
 ## Brave Rewards
 
@@ -102,15 +115,45 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 
 **Source** : [PDF conditions d'utilisation de coinlist.co page 13](https://coinlist.co/documents/coinlist_terms_of_service.pdf)
 
+## Crypto.com
+
+| Désignation de l'organisme gestionnaire du compte | `MCO Malta DAX Limited`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Malte`                                                          |
+| Adresse                                           | `Level 7, Spinola Park, Triq Mikiel Ang Borg` |
+| Indicatif pays - Code postal - Ville              | `St Julian’s SPK 1000`                                            |
+
+**Source** : [Lien Privacy Notice dans le pied de page du site crypto.com](https://crypto.com/privacy/global)
+
+## Kraken
+
+| Désignation de l'organisme gestionnaire du compte | `Payward Ltd.`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Royaume-Uni`                                                          |
+| Adresse                                           | `6th Floor, One London Wall` |
+| Indicatif pays - Code postal - Ville              | `London, EC2Y 5EB`                                            |
+
+**Source** : [FAQ Kraken](https://support.kraken.com/hc/en-us/articles/360001389343-Kraken-s-address)
+
 ## Uphold
 
 | Désignation de l'organisme gestionnaire du compte | `Uphold Europe Limited`                               |
 |---------------------------------------------------|----------------------------------------------------------------|
 | Pays                                              | `Royaume-Uni`                                                          |
 | Adresse                                           | `Suite A, 6 Honduras Street` |
-| Indicatif pays - Code postal - Ville              | `London, England, EC1Y 0TH`                                            |
+| Indicatif pays - Code postal - Ville              | `London, EC1Y 0TH`                                            |
 
 **Source** : [Pied de page du site uphold.com](https://uphold.com/)
+
+## SwissBorg
+
+| Désignation de l'organisme gestionnaire du compte | `SBorg SA`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Suisse`                                                          |
+| Adresse                                           | `Rue du Grand-Chêne 8` |
+| Indicatif pays - Code postal - Ville              | `1003 Lausanne`                                            |
+
+**Source** : [Pied de page du site swissborg.com](https://swissborg.com/)
 
 # Licence ⚖️
 Licence MIT. Toutes les données appartiennent à leurs propriétaires et son utilisées dans un but informatif et non-lucratif.
