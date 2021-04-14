@@ -34,6 +34,9 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 ## Liste des plateformes ✅
 
 - [Binance](#binance)
+- [Bitstamp](#bitstamp)
+- [Bittrex](#bittrex)
+- [Brave rewards](#brave-rewards)
 - [Coinbase](#coinbase)
 - [CoinList](#coinlist)
 - [Uphold](#uphold)
@@ -47,6 +50,37 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Indicatif pays - Code postal - Ville              | `TA' XBIEX, XBX 1120`                                            |
 
 **Source** : [Dun & Bradstreet](https://www.dnb.com/business-directory/company-profiles.binance_europe_services_limited.32db5cbce39f6f61f84bfc8b1350137d.html)
+
+## Bitstamp
+
+| Désignation de l'organisme gestionnaire du compte | `Bitstamp Ltd`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Royaume-Uni`                                                          |
+| Adresse                                           | `5 New Street Square` |
+| Indicatif pays - Code postal - Ville              | `London EC4A 3TW`                                            |
+
+**Source** : [Pied de page du site bitstamp.net](https://www.bitstamp.net/)
+
+## Bittrex
+
+| Désignation de l'organisme gestionnaire du compte | `Bittrex Global GmbH`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Liechtenstein`                                                          |
+| Adresse                                           | `Dr. Grass-Strasse 12` |
+| Indicatif pays - Code postal - Ville              | `9490 Vaduz`                                            |
+
+**Source** : [Lien privacy dans le pied de page du site global.bittrex.com](https://global.bittrex.com/privacy)
+
+
+## Brave Rewards
+
+| Désignation de l'organisme gestionnaire du compte | `Brave San Francisco`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `États-Unis d'Amérique`                                                          |
+| Adresse                                           | `512 Second St., Floor 2` |
+| Indicatif pays - Code postal - Ville              | `San Francisco, CA 94107`                                            |
+
+**Source** : [Pied de page du site brave.com/brave-rewards](https://brave.com/brave-rewards/)
 
 ## Coinbase
 
