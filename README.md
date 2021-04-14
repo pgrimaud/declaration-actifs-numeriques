@@ -44,6 +44,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 - [FTX](#ftx)
 - [eToro](#etoro)
 - [Kraken](#kraken)
+- [KuCoin](#kucoin)
 - [Maiar](#maiar)
 - [Uphold](#uphold)
 - [SwissBorg](#swissborg)
@@ -55,6 +56,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Pays                                              | `Malte`                                                          |
 | Adresse                                           | `Level G (Office 1/1235), Quantum House, 75 Abate Rigord Street` |
 | Indicatif pays - Code postal - Ville              | `TA' XBIEX, XBX 1120`                                            |
+| URL du site internet                              | `https://www.binance.com/`                                            |
 
 **Source** : [Dun & Bradstreet](https://www.dnb.com/business-directory/company-profiles.binance_europe_services_limited.32db5cbce39f6f61f84bfc8b1350137d.html)
 
@@ -65,6 +67,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Pays                                              | `Autriche`                                                          |
 | Adresse                                           | `Campus 2, Jakov-Lind-Straße 2` |
 | Indicatif pays - Code postal - Ville              | `1020 Vienna`                                            |
+| URL du site internet                              | `https://www.bitpanda.com/`                                            |
 
 **Source** : [Lien Legal notice dans le pied de page du site bitpanda.com](https://www.bitpanda.com/en/legal/notice)
 
@@ -75,6 +78,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Pays                                              | `Royaume-Uni`                                                          |
 | Adresse                                           | `5 New Street Square` |
 | Indicatif pays - Code postal - Ville              | `London EC4A 3TW`                                            |
+| URL du site internet                              | `https://www.bitstamp.net/`                                            |
 
 **Source** : [Pied de page du site bitstamp.net](https://www.bitstamp.net/)
 
@@ -85,6 +89,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Pays                                              | `Liechtenstein`                                                          |
 | Adresse                                           | `Dr. Grass-Strasse 12` |
 | Indicatif pays - Code postal - Ville              | `9490 Vaduz`                                            |
+| URL du site internet                              | `https://global.bittrex.com/`                                            |
 
 **Source** : [Lien privacy dans le pied de page du site global.bittrex.com](https://global.bittrex.com/privacy)
 
@@ -95,6 +100,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Pays                                              | `États-Unis d'Amérique`                                                          |
 | Adresse                                           | `512 Second St., Floor 2` |
 | Indicatif pays - Code postal - Ville              | `San Francisco, CA 94107`                                            |
+| URL du site internet                              | `https://brave.com/brave-rewards/`                                            |
 
 **Source** : [Pied de page du site brave.com/brave-rewards](https://brave.com/brave-rewards/)
 
@@ -105,6 +111,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Pays                                              | `Ireland`                                                          |
 | Adresse                                           | `70 Sir John Rogerson’s Quay` |
 | Indicatif pays - Code postal - Ville              | `Dublin D02 R296`                                            |
+| URL du site internet                              | `https://www.coinbase.com/`                                            |
 
 **Source** : [Mentions légales coinbase.com](https://www.coinbase.com/legal/user_agreement/ireland_europe)
 
@@ -115,6 +122,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Pays                                              | `États-Unis d'Amérique`                                                          |
 | Adresse                                           | `850 Montgomery St., Suite 350` |
 | Indicatif pays - Code postal - Ville              | `San Francisco, CA 94133`                                            |
+| URL du site internet                              | `https://coinlist.co/`                                            |
 
 **Source** : [PDF conditions d'utilisation de coinlist.co page 13](https://coinlist.co/documents/coinlist_terms_of_service.pdf)
 
@@ -125,6 +133,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Pays                                              | `Malte`                                                          |
 | Adresse                                           | `Level 7, Spinola Park, Triq Mikiel Ang Borg` |
 | Indicatif pays - Code postal - Ville              | `St Julian’s SPK 1000`                                            |
+| URL du site internet                              | `https://crypto.com/`                                            |
 
 **Source** : [Lien Privacy Notice dans le pied de page du site crypto.com](https://crypto.com/privacy/global)
 
@@ -135,6 +144,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Pays                                              | `Chypre`                                                          |
 | Adresse                                           | `4 Profiti Ilia Street Kanika International Business Center (KIBC) 7th Floor` |
 | Indicatif pays - Code postal - Ville              | `Germasogeia 4046 Limassol`                                            |
+| URL du site internet                              | `https://www.etoro.com/`                                            |
 
 **Source** : [Lien Nos bureaux dans le pied de page du site etoro.com](https://www.etoro.com/fr/about/our-offices/)
 
@@ -145,9 +155,9 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Pays                                              | `Antigua and Barbuda`                                                          |
 | Adresse                                           | `Lower Factory Road` |
 | Indicatif pays - Code postal - Ville              | `The Valley`                                            |
+| URL du site internet                              | `https://ftx.com/`                                            |
 
 **Source** : [Dun & Bradstreet](https://www.dnb.com/business-directory/company-profiles.ftx_trading_ltd.48aaa8642142106d6bf44ab8bf1cbe21.html)
-
 
 ## Kraken
 
@@ -156,8 +166,21 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Pays                                              | `Royaume-Uni`                                                          |
 | Adresse                                           | `6th Floor, One London Wall` |
 | Indicatif pays - Code postal - Ville              | `London, EC2Y 5EB`                                            |
+| URL du site internet                              | `https://www.kraken.com/`                                            |
 
 **Source** : [FAQ Kraken](https://support.kraken.com/hc/en-us/articles/360001389343-Kraken-s-address)
+
+## Kucoin
+
+| Désignation de l'organisme gestionnaire du compte | `Kucoin`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Seychelles`                                                          |
+| Adresse                                           | `Vistra Corporate Services Centre, Suite 23, 1st Floor, Eden Plaza, Eden Island` |
+| Indicatif pays - Code postal - Ville              | `Mahe, 999126 SC`                                            |
+| URL du site internet                              | `https://www.kucoin.com/`                                            |
+
+**Source** : [KuCoin operates in Seychelles dans la page : ](https://www.kucoin.com/news/en-kucoin-media-kit)
+**Source** : [Dépot de la marque Kucoin](https://www.trademarkelite.com/trademark/trademark-detail/88715063/KUCOIN)
 
 ## Maiar
 
@@ -166,6 +189,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Pays                                              | `Roumanie`                                                          |
 | Adresse                                           | `N. Olahus St., no 5, Centrul de Afaceri, corp B, et.9` |
 | Indicatif pays - Code postal - Ville              | `550402 Sibiu`                                            |
+| URL du site internet                              | `https://maiar.com/`                                            |
 
 **Source** : [Lien Privacy dans le footer du site maiar.com](https://maiar.com/privacy/)
 
@@ -176,6 +200,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Pays                                              | `Royaume-Uni`                                                          |
 | Adresse                                           | `Suite A, 6 Honduras Street` |
 | Indicatif pays - Code postal - Ville              | `London, EC1Y 0TH`                                            |
+| URL du site internet                              | `https://uphold.com/`                                            |
 
 **Source** : [Pied de page du site uphold.com](https://uphold.com/)
 
@@ -186,6 +211,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Pays                                              | `Suisse`                                                          |
 | Adresse                                           | `Rue du Grand-Chêne 8` |
 | Indicatif pays - Code postal - Ville              | `1003 Lausanne`                                            |
+| URL du site internet                              | `https://swissborg.com/`                                            |
 
 **Source** : [Pied de page du site swissborg.com](https://swissborg.com/)
 
