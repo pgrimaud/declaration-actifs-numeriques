@@ -77,3 +77,6 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Indicatif pays - Code postal - Ville              | `London, England, EC1Y 0TH`                                            |
 
 **Source** : [Pied de page du site uphold.com](https://uphold.com/)
+
+# Licence ⚖️
+Licence MIT. Toutes les données appartiennent à leurs propriétaires et son utilisées dans un but informatif et non-lucratif.
