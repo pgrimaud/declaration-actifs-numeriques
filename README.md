@@ -106,7 +106,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Pays                                              | `États-Unis d'Amérique`                                                          |
 | Adresse                                           | `512 Second St., Floor 2` |
 | Indicatif pays - Code postal - Ville              | `San Francisco, CA 94107`                                            |
-| URL du site internet                              | `https://brave.com/brave-rewards/`                                            |
+| URL du site internet                              | `https://publishers.basicattentiontoken.org/`                                            |
 
 **Source** : [Pied de page du site brave.com/brave-rewards](https://brave.com/brave-rewards/)
 
