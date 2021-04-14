@@ -1,10 +1,10 @@
 # Déclaration des actifs numériques 🔒
 
-Ce dépôt de code libre a pour but de recenser les diverses plateformes et leurs informations dans le but de **faciliter la déclaration de comptes d'actifs numériques à l'étranger** via le formulaire n°3916-bis.
+Ce dépôt de code libre a pour but de recenser les diverses plateformes et leurs informations afin de **faciliter la déclaration de comptes d'actifs numériques à l'étranger** via le formulaire n°3916-bis.
 
 ## Contributions 🖊
 
-Si vous trouvez une information inexacte ou voulez rajouter une plateforme non recensée. Toute contribution est appréciée, c'est le but de l'open source. 
+Si vous trouvez une information inexacte ou voulez rajouter une plateforme non recensée, toute contribution est appréciée : c'est le but de l'open source. 
 
 Vous pouvez soumettre une modification comme ceci : 
  - Créer un compte sur github.com (gratuit)
