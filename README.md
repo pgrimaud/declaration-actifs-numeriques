@@ -49,9 +49,11 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 - [Kraken](#kraken)
 - [KuCoin](#kucoin)
 - [Liquid](#liquid)
+- [MXC](#mxc)
 - [Maiar](#maiar)
 - [Poloniex](#poloniex)
 - [OKCoin](#okcoin)
+- [OKEx](#okex)
 - [Uphold](#uphold)
 - [SwissBorg](#swissborg)
 
@@ -229,13 +231,26 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Désignation de l'organisme gestionnaire du compte | `QUOINE PTE. LTD. - Liquid`                               |
 |---------------------------------------------------|----------------------------------------------------------------|
 | Pays                                              | `Singapour`                                                          |
-| Adresse                                           | `80 Robinson road #08-01` |
-| Indicatif pays - Code postal - Ville              | `Singapore 068898`                                            |
+| Adresse                                           | `80 Robinson road, #08-01` |
+| Indicatif pays - Code postal - Ville              | `Singapore, 068898`                                            |
 | URL du site internet                              | `https://www.liquid.com/`                                            |
 
 **Source** : [Document "terms of use" du site liquid.com](https://quoine-prod.s3.amazonaws.com/uploads/policy_document/term_document/249/Liquid_Terms_of_Use__Quoine_Pte._Ltd.___2020.07.31_.pdf)
 
 **Source** : [Singapore Fintech Association](https://directory.singaporefintech.org/directory/listing/quoine)
+
+## MXC
+
+| Désignation de l'organisme gestionnaire du compte | `MXC Global Foundation Ltd.`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Singapour`                                                          |
+| Adresse                                           | `140 Paya Lebar Road, #10-09, AZ @ Paya Lebar` |
+| Indicatif pays - Code postal - Ville              | `Singapore, 409015`                                            |
+| URL du site internet                              | `https://www.mxc.com/`                                            |
+
+**Source** : *MXC Global Ltd.* dans le footer de https://www.mxc.com/
+
+**Source** : [Lien société](https://www.sgpbusiness.com/company/Mxc-Global-Foundation-Ltd)
 
 ## Maiar
 
@@ -269,6 +284,17 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | URL du site internet                              | `https://www.okcoin.com/`                                            |
 
 **Source** : [Page "licenses" du site okcoin.com](https://www.okcoin.com/licenses.html)
+
+## OKEx
+
+| Désignation de l'organisme gestionnaire du compte | `OKEx`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Malaisie`                                                          |
+| Adresse                                           | `Unit 10-02, Level 10, Menara Binjai, No. 2, Jalan Binjai` |
+| Indicatif pays - Code postal - Ville              | `50450 Kuala Lumpur`                                            |
+| URL du site internet                              | `https://www.okex.com/`                                            |
+
+**Source** : [Page "Contact us" du site okex.com](https://www.okex.com/contact-us.html)
 
 ## Uphold
 
