@@ -75,7 +75,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Indicatif pays - Code postal - Ville              | `1020 Vienna`                                            |
 | URL du site internet                              | `https://www.bitpanda.com/`                                            |
 
-**Source** : [Lien Legal notice dans le pied de page du site bitpanda.com](https://www.bitpanda.com/en/legal/notice)
+**Source** : [Lien "Legal notice" dans le pied de page du site bitpanda.com](https://www.bitpanda.com/en/legal/notice)
 
 ## Bitstamp
 
@@ -97,7 +97,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Indicatif pays - Code postal - Ville              | `9490 Vaduz`                                            |
 | URL du site internet                              | `https://global.bittrex.com/`                                            |
 
-**Source** : [Lien privacy dans le pied de page du site global.bittrex.com](https://global.bittrex.com/privacy)
+**Source** : [Lien "privacy" dans le pied de page du site global.bittrex.com](https://global.bittrex.com/privacy)
 
 ## Brave Rewards
 
@@ -152,7 +152,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Indicatif pays - Code postal - Ville              | `St Julian’s SPK 1000`                                            |
 | URL du site internet                              | `https://crypto.com/`                                            |
 
-**Source** : [Lien Privacy Notice dans le pied de page du site crypto.com](https://crypto.com/privacy/global)
+**Source** : [Lien "Privacy Notice" dans le pied de page du site crypto.com](https://crypto.com/privacy/global)
 
 ## eToro
 
@@ -163,7 +163,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Indicatif pays - Code postal - Ville              | `Germasogeia 4046 Limassol`                                            |
 | URL du site internet                              | `https://www.etoro.com/`                                            |
 
-**Source** : [Lien Nos bureaux dans le pied de page du site etoro.com](https://www.etoro.com/fr/about/our-offices/)
+**Source** : [Lien "Nos bureaux" dans le pied de page du site etoro.com](https://www.etoro.com/fr/about/our-offices/)
 
 ## FTX
 
@@ -185,7 +185,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Indicatif pays - Code postal - Ville              | `Victoria, Mahe`                                            |
 | URL du site internet                              | `https://hitbtc.com/`                                            |
 
-**Source** : [Lien 'Legal' en pied de page](https://hitbtc.com/legal-information)
+**Source** : [Lien "Legal" en pied de page](https://hitbtc.com/legal-information)
 
 ## Huobi
 
@@ -220,9 +220,9 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Indicatif pays - Code postal - Ville              | `Eden Island, Mahe, 999126 SC`                                            |
 | URL du site internet                              | `https://www.kucoin.com/`                                            |
 
-**Source** : [KuCoin operates in Seychelles dans la page](https://www.kucoin.com/news/en-kucoin-media-kit)
+**Source** : ["KuCoin operates in Seychelles" dans la page "Media kit"](https://www.kucoin.com/news/en-kucoin-media-kit)
 
-**Source** : [Dépot de la marque Kucoin](https://www.trademarkelite.com/trademark/trademark-detail/88715063/KUCOIN)
+**Source** : [Dépôt de la marque Kucoin](https://www.trademarkelite.com/trademark/trademark-detail/88715063/KUCOIN)
 
 ## Liquid
 
@@ -233,9 +233,9 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Indicatif pays - Code postal - Ville              | `Singapore 068898`                                            |
 | URL du site internet                              | `https://www.liquid.com/`                                            |
 
-**Source** : [Document terms of use du site](https://quoine-prod.s3.amazonaws.com/uploads/policy_document/term_document/249/Liquid_Terms_of_Use__Quoine_Pte._Ltd.___2020.07.31_.pdf)
+**Source** : [Document "terms of use" du site liquid.com](https://quoine-prod.s3.amazonaws.com/uploads/policy_document/term_document/249/Liquid_Terms_of_Use__Quoine_Pte._Ltd.___2020.07.31_.pdf)
 
-**Source** : [KuCoin operates in Seychelles dans la page](https://www.sgpbusiness.com/company/Quoine-Pte-Ltd)
+**Source** : [Singapore Fintech Association](https://directory.singaporefintech.org/directory/listing/quoine)
 
 ## Maiar
 
@@ -246,7 +246,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Indicatif pays - Code postal - Ville              | `550402 Sibiu`                                            |
 | URL du site internet                              | `https://maiar.com/`                                            |
 
-**Source** : [Lien Privacy dans le footer du site maiar.com](https://maiar.com/privacy/)
+**Source** : [Lien "Privacy" dans le pied de page du site maiar.com](https://maiar.com/privacy/)
 
 ## Poloniex
 
@@ -257,7 +257,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Indicatif pays - Code postal - Ville              | `Eden Island`                                            |
 | URL du site internet                              | `https://www.poloniex.com/`                                            |
 
-**Source** : [Page terms du site poloniex.com](https://www.poloniex.com/terms/)
+**Source** : [Page "terms" du site poloniex.com](https://www.poloniex.com/terms/)
 
 ## OKCoin
 
