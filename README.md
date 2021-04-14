@@ -41,7 +41,10 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 - [Coinbase](#coinbase)
 - [CoinList](#coinlist)
 - [Crypto.com](#crypto-com)
+- [FTX](#ftx)
+- [eToro](#etoro)
 - [Kraken](#kraken)
+- [Maiar](#maiar)
 - [Uphold](#uphold)
 - [SwissBorg](#swissborg)
 
@@ -125,6 +128,27 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 
 **Source** : [Lien Privacy Notice dans le pied de page du site crypto.com](https://crypto.com/privacy/global)
 
+## eToro
+
+| Désignation de l'organisme gestionnaire du compte | `eToro (Europe) Ltd.`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Chypre`                                                          |
+| Adresse                                           | `4 Profiti Ilia Street Kanika International Business Center (KIBC) 7th Floor` |
+| Indicatif pays - Code postal - Ville              | `Germasogeia 4046 Limassol`                                            |
+
+**Source** : [Lien Nos bureaux dans le pied de page du site etoro.com](https://www.etoro.com/fr/about/our-offices/)
+
+## FTX
+
+| Désignation de l'organisme gestionnaire du compte | `FTX Trading Ltd.`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Antigua and Barbuda`                                                          |
+| Adresse                                           | `Lower Factory Road` |
+| Indicatif pays - Code postal - Ville              | `The Valley`                                            |
+
+**Source** : [Dun & Bradstreet](https://www.dnb.com/business-directory/company-profiles.ftx_trading_ltd.48aaa8642142106d6bf44ab8bf1cbe21.html)
+
+
 ## Kraken
 
 | Désignation de l'organisme gestionnaire du compte | `Payward Ltd.`                               |
@@ -134,6 +158,16 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Indicatif pays - Code postal - Ville              | `London, EC2Y 5EB`                                            |
 
 **Source** : [FAQ Kraken](https://support.kraken.com/hc/en-us/articles/360001389343-Kraken-s-address)
+
+## Maiar
+
+| Désignation de l'organisme gestionnaire du compte | `Elrond Network SRL`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Roumanie`                                                          |
+| Adresse                                           | `N. Olahus St., no 5, Centrul de Afaceri, corp B, et.9` |
+| Indicatif pays - Code postal - Ville              | `550402 Sibiu`                                            |
+
+**Source** : [Lien Privacy dans le footer du site maiar.com](https://maiar.com/privacy/)
 
 ## Uphold
 
