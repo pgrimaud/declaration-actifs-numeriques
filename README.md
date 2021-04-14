@@ -40,12 +40,18 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 - [Brave rewards](#brave-rewards)
 - [Coinbase](#coinbase)
 - [CoinList](#coinlist)
+- [CREX24](#crex24)
 - [Crypto.com](#crypto-com)
 - [FTX](#ftx)
 - [eToro](#etoro)
+- [HitBTC](#hitbtc)
+- [Huobi](#huobi)
 - [Kraken](#kraken)
 - [KuCoin](#kucoin)
+- [Liquid](#liquid)
 - [Maiar](#maiar)
+- [Poloniex](#poloniex)
+- [OKCoin](#okcoin)
 - [Uphold](#uphold)
 - [SwissBorg](#swissborg)
 
@@ -126,6 +132,17 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 
 **Source** : [PDF conditions d'utilisation de coinlist.co page 13](https://coinlist.co/documents/coinlist_terms_of_service.pdf)
 
+## CREX24
+
+| Désignation de l'organisme gestionnaire du compte | `CREX24 OÜ`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Estonie`                                                          |
+| Adresse                                           | `Tornimäe tn 7-169` |
+| Indicatif pays - Code postal - Ville              | `Tallinn Harjumaa 10145`                                            |
+| URL du site internet                              | `https://crex24.com/`                                            |
+
+**Source** : [Déclaration de société Estonienne](https://www.e-krediidiinfo.ee/14419665-CREX24%20O%C3%9C?lang=en)
+
 ## Crypto.com
 
 | Désignation de l'organisme gestionnaire du compte | `MCO Malta DAX Limited`                               |
@@ -159,6 +176,30 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 
 **Source** : [Dun & Bradstreet](https://www.dnb.com/business-directory/company-profiles.ftx_trading_ltd.48aaa8642142106d6bf44ab8bf1cbe21.html)
 
+## HitBTC
+
+| Désignation de l'organisme gestionnaire du compte | `Hit Tech Solutions Development Ltd.`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Seychelles`                                                          |
+| Adresse                                           | `Suite 15, Oliaji Trade Centre, Francis Rachel Street` |
+| Indicatif pays - Code postal - Ville              | `Victoria, Mahe`                                            |
+| URL du site internet                              | `https://hitbtc.com/`                                            |
+
+**Source** : [Lien 'Legal' en pied de page](https://hitbtc.com/legal-information)
+
+## Huobi
+
+| Désignation de l'organisme gestionnaire du compte | `Huobi Global`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Singapour`                                                          |
+| Adresse                                           | `8 Marina View, #40-03/04/05` |
+| Indicatif pays - Code postal - Ville              | `Singapore, 018960`                                            |
+| URL du site internet                              | `https://www.huobi.com/`                                            |
+
+**Source** : [Lien sur Devex](https://www.devex.com/organizations/huobi-global-142446)
+
+**Autres sources** : LinkedIn, events Facebook
+
 ## Kraken
 
 | Désignation de l'organisme gestionnaire du compte | `Payward Ltd.`                               |
@@ -175,12 +216,26 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Désignation de l'organisme gestionnaire du compte | `Kucoin`                               |
 |---------------------------------------------------|----------------------------------------------------------------|
 | Pays                                              | `Seychelles`                                                          |
-| Adresse                                           | `Vistra Corporate Services Centre, Suite 23, 1st Floor, Eden Plaza, Eden Island` |
-| Indicatif pays - Code postal - Ville              | `Mahe, 999126 SC`                                            |
+| Adresse                                           | `Vistra Corporate Services Centre, Suite 23, 1st Floor, Eden Plaza` |
+| Indicatif pays - Code postal - Ville              | `Eden Island, Mahe, 999126 SC`                                            |
 | URL du site internet                              | `https://www.kucoin.com/`                                            |
 
-**Source** : [KuCoin operates in Seychelles dans la page : ](https://www.kucoin.com/news/en-kucoin-media-kit)
+**Source** : [KuCoin operates in Seychelles dans la page](https://www.kucoin.com/news/en-kucoin-media-kit)
+
 **Source** : [Dépot de la marque Kucoin](https://www.trademarkelite.com/trademark/trademark-detail/88715063/KUCOIN)
+
+## Liquid
+
+| Désignation de l'organisme gestionnaire du compte | `QUOINE PTE. LTD. - Liquid`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Singapour`                                                          |
+| Adresse                                           | `80 Robinson road #08-01` |
+| Indicatif pays - Code postal - Ville              | `Singapore 068898`                                            |
+| URL du site internet                              | `https://www.liquid.com/`                                            |
+
+**Source** : [Document terms of use du site](https://quoine-prod.s3.amazonaws.com/uploads/policy_document/term_document/249/Liquid_Terms_of_Use__Quoine_Pte._Ltd.___2020.07.31_.pdf)
+
+**Source** : [KuCoin operates in Seychelles dans la page](https://www.sgpbusiness.com/company/Quoine-Pte-Ltd)
 
 ## Maiar
 
@@ -192,6 +247,28 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | URL du site internet                              | `https://maiar.com/`                                            |
 
 **Source** : [Lien Privacy dans le footer du site maiar.com](https://maiar.com/privacy/)
+
+## Poloniex
+
+| Désignation de l'organisme gestionnaire du compte | `Polo Digital Assets, Ltd.`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Seychelles`                                                          |
+| Adresse                                           | `F20, 1st Floor, Eden Plaza` |
+| Indicatif pays - Code postal - Ville              | `Eden Island`                                            |
+| URL du site internet                              | `https://www.poloniex.com/`                                            |
+
+**Source** : [Page terms du site poloniex.com](https://www.poloniex.com/terms/)
+
+## OKCoin
+
+| Désignation de l'organisme gestionnaire du compte | `OKCoin Europe LTD`                               |
+|---------------------------------------------------|----------------------------------------------------------------|
+| Pays                                              | `Malte`                                                          |
+| Adresse                                           | `30, Kenilworth, Flat 3, Sir Augustus Bartolo Street` |
+| Indicatif pays - Code postal - Ville              | `Ta Xbiex XBX 1093`                                            |
+| URL du site internet                              | `https://www.okcoin.com/`                                            |
+
+**Source** : [Page "licenses" du site okcoin.com](https://www.okcoin.com/licenses.html)
 
 ## Uphold
 
