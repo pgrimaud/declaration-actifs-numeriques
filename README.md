@@ -319,4 +319,4 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 **Source** : [Pied de page du site swissborg.com](https://swissborg.com/)
 
 # Licence ⚖️
-Licence MIT. Toutes les données appartiennent à leurs propriétaires et son utilisées dans un but informatif et non-lucratif.
+Licence MIT. Toutes les données appartiennent à leurs propriétaires et sont utilisées dans un but informatif et non-lucratif.
