@@ -106,8 +106,8 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Désignation de l'organisme gestionnaire du compte | `Brave San Francisco`                               |
 |---------------------------------------------------|----------------------------------------------------------------|
 | Pays                                              | `États-Unis d'Amérique`                                                          |
-| Adresse                                           | `512 Second St., Floor 2` |
-| Indicatif pays - Code postal - Ville              | `San Francisco, CA 94107`                                            |
+| Adresse                                           | `580 Howard St. Unit 402` |
+| Indicatif pays - Code postal - Ville              | `San Francisco, CA 94105`                                            |
 | URL du site internet                              | `https://publishers.basicattentiontoken.org/`                                            |
 
 **Source** : [Pied de page du site brave.com/brave-rewards](https://brave.com/brave-rewards/)
