@@ -44,6 +44,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 - [Crypto.com](#crypto-com)
 - [FTX](#ftx)
 - [eToro](#etoro)
+- [Gate](#gate)
 - [HitBTC](#hitbtc)
 - [Huobi](#huobi)
 - [Kraken](#kraken)
@@ -166,6 +167,17 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | URL du site internet                              | `https://www.etoro.com/`                                            |
 
 **Source** : [Lien "Nos bureaux" dans le pied de page du site etoro.com](https://www.etoro.com/fr/about/our-offices/)
+
+## Gate
+
+| Désignation de l'organisme gestionnaire du compte | `Gate Technology.`                                                             |
+|---------------------------------------------------|--------------------------------------------------------------------------------|
+| Pays                                              | `Îles Caïmans`                                                                 |
+| Adresse                                           | `P.O. Box 31119 Grand Pavilion, Hibiscus Way, 802 West Bay Road, Grand Cayman` |
+| Indicatif pays - Code postal - Ville              | `KY1-1205`                                                                     |
+| URL du site internet                              | `https://www.gate.io`                                                          |
+
+**Source** : [Lien "Nos bureaux" dans le pied de page du site etoro.com](https://www.gate.io/page/contacts)
 
 ## FTX
 
