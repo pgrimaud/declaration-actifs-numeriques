@@ -177,7 +177,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Indicatif pays - Code postal - Ville              | `KY1-1205`                                                                     |
 | URL du site internet                              | `https://www.gate.io`                                                          |
 
-**Source** : [Lien "Nos bureaux" dans le pied de page du site etoro.com](https://www.gate.io/page/contacts)
+**Source** : [Page contact du site gate.io](https://www.gate.io/page/contacts)
 
 ## FTX
 
