@@ -63,8 +63,8 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | Désignation de l'organisme gestionnaire du compte | `Binance Europe Services Limited`                               |
 |---------------------------------------------------|----------------------------------------------------------------|
 | Pays                                              | `Malte`                                                          |
-| Adresse                                           | `14 EAST, LEVEL 5B, TRIQ TAS-SLIEMA` |
-| Indicatif pays - Code postal - Ville              | `Gzira, GZR 1639`                                            |
+| Adresse                                           | `14 EAST LEVEL 5B TRIQ TAS SLIEMA` |
+| Indicatif pays - Code postal - Ville              | `Gzira GZR 1639`                                            |
 | URL du site internet                              | `https://www.binance.com/`                                            |
 
 **Source** : [Dun & Bradstreet](https://www.dnb.com/business-directory/company-profiles.binance_europe_services_limited.32db5cbce39f6f61f84bfc8b1350137d.html)
