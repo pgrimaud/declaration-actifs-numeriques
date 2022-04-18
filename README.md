@@ -53,6 +53,7 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 - [MXC](#mxc)
 - [Maiar](#maiar)
 - [Poloniex](#poloniex)
+- [ProBit](#probit)
 - [OKCoin](#okcoin)
 - [OKEx](#okex)
 - [Uphold](#uphold)
@@ -285,6 +286,17 @@ Conformément à l’article 41 II B de la loi n° 2018-1317 du 28 décembre 201
 | URL du site internet                              | `https://www.poloniex.com/`                                            |
 
 **Source** : [Page "terms" du site poloniex.com](https://www.poloniex.com/terms/)
+
+## Probit
+
+| Désignation de l'organisme gestionnaire du compte | `PROBIT GLOBAL SERVICES Ltd.`               |
+|---------------------------------------------------|---------------------------------------------|
+| Pays                                              | `Seychelles`                                |
+| Adresse                                           | `Suite 9, Ansuya Estate, Revolution Avenue` |
+| Indicatif pays - Code postal - Ville              | `Victoria Mahe`                             |
+| URL du site internet                              | `https://www.probit.com`                    |
+
+**Source** : [Page "support" du site probit.com](https://support.probit.com/hc/fr/articles/900001205606-Comment-d%C3%A9clarer-ses-gains-de-crypto-monnaies-aux-imp%C3%B4ts-)
 
 ## OKCoin
 
